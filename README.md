@@ -38,7 +38,7 @@ ICRA 2020 papers focusing on point cloud analysis
 - [Any Motion Detector: Learning Class-Agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds
 ]()
 
-- [PointTrackNet: An End-To-End Network for 3-D Object Detection and Tracking from Point Clouds- [PointAtrousGraph: Deep Hierarchical Encoder-De
+- [PointTrackNet: An End-To-End Network for 3-D Object Detection and Tracking from Point Clouds
 ]()
 
 
